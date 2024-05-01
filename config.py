@@ -80,8 +80,8 @@ Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
 <b>If You have Any problem ? Contact me On Telegram or WhatsApp ❤</b>
 <b>Thankyou For Using Mr_alex_id Bots 💫</b>
 
-<b>Contact on WhatsApp</b> 🌼 : <a href=https://wa.me/94742524701><b>Itzcp</b></a>
-<b>Contact on Telegram</b> 🌸 : <a href=https://t.me/Mr_alex_id><b>Itzmecp</b></a>
+<b>Contact on WhatsApp</b> 🌼 : <a href=https://wa.me/94742524701><b>Mr_alex_id</b></a>
+<b>Contact on Telegram</b> 🌸 : <a href=https://t.me/Mr_alex_id><b>Mr_alex_id</b></a>
 
 <blockquote><a href=https://t.me/Mr_alex_id><b>#Filmworld</b></a> | <a href=https://t.me/FilmZone_World><b>@FilmZone_world</b></a></blockquote>"""
 
