@@ -27,10 +27,10 @@ class Config(object):
 class Txt(object):
     # part of text configuration
     START_TXT = """<b>✨ Hᴇʟʟᴏ {}  
-This Is An Advanced And Yet Powerful Rename Bot. ⭕
+This Is An Advanced And Yet Powerful Rename Bot. 💢
 
 Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
-Maintained By : <a href=https://t.me/Itzmecp>Itzmecp</a></b>"""
+Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
