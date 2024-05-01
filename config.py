@@ -35,11 +35,11 @@ Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>✯ My Name</b> : {}
-├<b>✯ Developer</b> : <a href=https://t.me/Itzmecp>Itzmecp</a> 
+├<b>✯ Developer</b> : <a href=https://t.me/Mr_alex_id>Mr_alex_id</a> 
 ├<b>✯ Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├<b>✯ Language</b> : <a href=https://www.python.org>Python 3</a>
 ├<b>✯ Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b>✯ Build Version</b> : <a href=https://t.me/FilmZone_official>Rename v4.5.0</a></b>     
+├<b>✯ Build Version</b> : <a href=https://t.me/FilmZone_World>Rename v4.5.0</a></b>     
 ╰───────────────⍟
 """
 
@@ -64,26 +64,26 @@ Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
 〽️ <b><u>How To Rename A File</u></b>
 
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].     
-<b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/Itzmecp>Itzmecp</a></b>"""
+<b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/Mr_alex_id>Mr_alex_id</a></b>"""
 
     PROGRESS_BAR = """\n
 <b>╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣</b>
-<b>┣⪼ 🗃️ Sɪᴢᴇ: <code>{1}|{2}</code></b>
+<b>┣⪼ 🗃 Sɪᴢᴇ: <code>{1}|{2}</code></b>
 <b>┣⪼ ⏳️ Dᴏɴᴇ : <code>{0}%</code></b>
 <b>┣⪼ 🚀 Sᴩᴇᴇᴅ: <code>{3}/s</code></b>
 <b>┣⪼ ⏰️ Eᴛᴀ : <code>{4}</code></b>
 <b>╰━━━━━━━━━━━━━➣</b>
 """
 
-    DONATE_TXT = """<b>Hey  there  I'm  Cp's  bot |° 🧚 🖤</b>
+    DONATE_TXT = """<b>Hey  there  Mr_alex_id  bot |° 🧚 🖤</b>
 
 <b>If You have Any problem ? Contact me On Telegram or WhatsApp ❤</b>
-<b>Thankyou For Using Itz Cp's Bots 💫</b>
+<b>Thankyou For Using Mr_alex_id Bots 💫</b>
 
-<b>Contact on WhatsApp</b> 🌼 : <a href=https://wa.me/94765665354><b>Itzcp</b></a>
-<b>Contact on Telegram</b> 🌸 : <a href=https://t.me/Itzmecp><b>Itzmecp</b></a>
+<b>Contact on WhatsApp</b> 🌼 : <a href=https://wa.me/94742524701><b>Itzcp</b></a>
+<b>Contact on Telegram</b> 🌸 : <a href=https://t.me/Mr_alex_id><b>Itzmecp</b></a>
 
-<blockquote><a href=https://t.me/itzmecp><b>#FilmZone</b></a> | <a href=https://t.me/FilmZone_Official><b>@FilmZone_Official</b></a></blockquote>"""
+<blockquote><a href=https://t.me/Mr_alex_id><b>#Filmworld</b></a> | <a href=https://t.me/FilmZone_World><b>@FilmZone_world</b></a></blockquote>"""
 
 
 
