@@ -93,7 +93,7 @@ async def doc(bot, update):
         else:
             new_filename = new_filename_
     except:
-        await update.message.edit("⚠️ Something Went Wrong Can't Able To Set Prefix Or Suffix ☹️ \n\n**Contact My Creator** : @MadflixOfficials")
+        await update.message.edit("⚠️ Something Went Wrong Can't Able To Set Prefix Or Suffix ☹️ \n\n**Contact My Creator** : @DiniduSilva")
     
         
     file_path = f"downloads/{new_filename}"
