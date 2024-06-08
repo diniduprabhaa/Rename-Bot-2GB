@@ -32,7 +32,9 @@ This Is An Advanced And Yet Powerful Rename Bot. 📚
 
 Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
 
-<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
+🌸 Tʀʏ Oᴜʀ Fɪʟᴍ Bᴏᴛ</b> ➜ <a href=https://t.me/TheSilvaFilmBOT><b>The Silva™ × Films 🇱🇰</b></a>
+
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a></blockquote>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
@@ -44,7 +46,7 @@ Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
 ├<b>✯ Build Version</b> : <a href=https://t.me/SilvaFilmZone>Rename v4.5.0</a></b>     
 ╰───────────────⍟
 
-<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a></blockquote>"""
 
     HELP_TXT = """
 📖 <b><u>How To Set Thumbnail</u></b>
@@ -68,7 +70,7 @@ Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
 
 <b>➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</b>  
 
-<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a></blockquote>"""
 
     PROGRESS_BAR = """\n
 <b>╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣</b>
@@ -87,7 +89,7 @@ Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
 
 <b>⭕ Contact on Telegram</b> : <a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා</b></a>
 
-<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a></blockquote>"""
 
 
 
