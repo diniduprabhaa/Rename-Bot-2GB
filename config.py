@@ -87,7 +87,7 @@ Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
 
 <b>Thankyou For Using Pʀɪᴍᴇ සිල්වා pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ Bᴏᴛᴢ 〽️</b>
 
-<b>⭕ Contact on Telegram</b> : <a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා</b></a>
+<b>⭕ Contact Owner on Telegram</b> : <a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා</b></a>
 
 <blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a></blockquote>"""
 
