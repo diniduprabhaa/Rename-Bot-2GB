@@ -26,25 +26,28 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b>✨ Hᴇʟʟᴏ {}  
-This Is An Advanced And Yet Powerful Rename Bot. 💢
+    START_TXT = """<b>🌼 Hᴇʟʟᴏ {} 👋
+
+This Is An Advanced And Yet Powerful Rename Bot. 📚
 
 Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
-Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
+
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>✯ My Name</b> : {}
-├<b>✯ Developer</b> : <a href=https://t.me/Mr_alex_id>Mr_alex_id</a> 
+├<b>✯ Developer</b> : <a href=https://t.me/DiniduSilva>Pʀɪᴍᴇ සිල්වා</a> 
 ├<b>✯ Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├<b>✯ Language</b> : <a href=https://www.python.org>Python 3</a>
 ├<b>✯ Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b>✯ Build Version</b> : <a href=https://t.me/FilmZone_World>Rename v4.5.0</a></b>     
+├<b>✯ Build Version</b> : <a href=https://t.me/SilvaFilmZone>Rename v4.5.0</a></b>     
 ╰───────────────⍟
-"""
+
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
 
     HELP_TXT = """
-🌌 <b><u>How To Set Thumbnail</u></b>
+📖 <b><u>How To Set Thumbnail</u></b>
   
 ➪ /start - Start The Bot And Send Any Photo To Automatically Set Thumbnail.
 ➪ /del_thumb - Use This Command To Delete Your Old Thumbnail.
@@ -58,13 +61,14 @@ Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
 
 <b>⭕ Example -</b> 
 <code>/set_caption 📕 Name ➠ : {filename}
-🔗 Size ➠ : {filesize} 
+📚 Size ➠ : {filesize} 
 ⏰ Duration ➠ : {duration}</code>
 
 〽️ <b><u>How To Rename A File</u></b>
 
-➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].     
-<b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/Mr_alex_id>Mr_alex_id</a></b>"""
+<b>➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</b>  
+
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
 
     PROGRESS_BAR = """\n
 <b>╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣</b>
@@ -72,18 +76,18 @@ Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
 <b>┣⪼ ⏳️ Dᴏɴᴇ : <code>{0}%</code></b>
 <b>┣⪼ 🚀 Sᴩᴇᴇᴅ: <code>{3}/s</code></b>
 <b>┣⪼ ⏰️ Eᴛᴀ : <code>{4}</code></b>
-<b>╰━━━━━━━━━━━━━➣</b>
+<b>╰━━━━❰ ᴘʀɪᴍᴇ ꜱɪʟᴠᴀ ❱━➣</b>
 """
 
-    DONATE_TXT = """<b>Hey  there  Mr_alex_id  bot |° 🧚 🖤</b>
+    DONATE_TXT = """<b>Hey  there 👋</b>
 
-<b>If You have Any problem ? Contact me On Telegram or WhatsApp ❤</b>
-<b>Thankyou For Using Mr_alex_id Bots 💫</b>
+<b>If You have Any problem ? Contact me On Telegram 🌼</b>
 
-<b>Contact on WhatsApp</b> 🌼 : <a href=https://wa.me/94742524701><b>Mr_alex_id</b></a>
-<b>Contact on Telegram</b> 🌸 : <a href=https://t.me/Mr_alex_id><b>Mr_alex_id</b></a>
+<b>Thankyou For Using Pʀɪᴍᴇ සිල්වා pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ Bᴏᴛᴢ 〽️</b>
 
-<blockquote><a href=https://t.me/Mr_alex_id><b>#Filmworld</b></a> | <a href=https://t.me/FilmZone_World><b>@FilmZone_world</b></a></blockquote>"""
+<b>⭕ Contact on Telegram</b> : <a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා</b></a>
+
+<blockquote><a href=https://t.me/DiniduSilva><b>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</b></a>"""
 
 
 
