@@ -83,7 +83,7 @@ Using This Bot You Can Rename And Change Thumbnail Of Your Files. 〽️
 
     DONATE_TXT = """<b>Hey  there 👋</b>
 
-<b>If You have Any problem ? Contact me On Telegram 🌼</b>
+<b>If You have Any problem ? Contact Owner On Telegram 🌼</b>
 
 <b>Thankyou For Using Pʀɪᴍᴇ සිල්වා pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ Bᴏᴛᴢ 〽️</b>
 
